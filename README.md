@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Badr Jbai from komutel and this is an evaluation test
-- 👀 I’m Looking to hire Coop Students (Alternant) ...
+- 👋 Hi, I’m Badr Jbaï from komutel and this is an evaluation test
+- 👀 I’m Looking to hire Coop Students from ESPRIT university (Alternant) ...
 - 🌱 I’m currious about how you code ...
 - 💞️ I’m looking to collaborate with you ...
 - 📫 Assignment details will follow:
@@ -23,21 +23,23 @@
 
 --->  7) ✨ Consume the the api and create the front end application using React Js to display the menu contacts and the below Highlighted fields. Ps: use any color you want to display the view.
 
---->  8) ✨ In Your github repository i shall see your backend forlder and your frontend folder 
+--->  8) ✨ In Your github repository i shall see your backend forlder and your frontend folder.
 
---->  9) 👀 Demo your appplication by taking screen shots into your README page.
+--->  9) ✨ Test your submition (button confirmer) form in your h2-console, in memory database
 
---->  10) Use git to commit your code into your github account with clear commits 
+--->  10) 👀 Demo your appplication by taking screen shots into your README page.
 
---->  11) Send your github repository to:
+--->  11) Use git to commit your code into your github account with clear commits. 
 
---->  11) Wishing you best of luck
+--->  12) 📫 Send your github repository to: rhtunis@komutel.com with object Test d'évaluation - Komtel.
+
+--->  13) Wishing you best of luck
 
 ---------------------------------------------------------------------------------------------------------------------
 
 - 🌱 Final Result of your application🌱
 
-![image](https://user-images.githubusercontent.com/111973909/186403591-431442a4-260b-4aa2-bb1f-e745001bc207.png)
+![image](https://user-images.githubusercontent.com/111973909/186414266-fac1869f-4970-48d0-8cd7-d8d00b17a7e1.png)
 
 <!---
 badr-komutel/badr-komutel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
