@@ -21,7 +21,7 @@
 
 --->  6) ✨ Create the backend application for the following interface below, contacts as object entity with Nom, address, ville, pays, telephone, debut de contract (calendrier) as params
 
---->  7) ✨ Consume the the api and create the front end application using React Js to display the menu contacts and the below Highlighted fields. Ps: use any color you want to display the view.
+--->  7) ✨ Consume the api and create the front end application using React Js to display the menu contacts and the below Highlighted fields. Ps: use any color you want to display the view.
 
 --->  8) ✨ In Your github repository i shall see your backend forlder and your frontend folder.
 
