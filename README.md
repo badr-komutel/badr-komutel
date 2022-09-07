@@ -27,7 +27,7 @@
 
 --->  9) ✨ Test your submition (button confirmer) form in your h2-console, in memory database
 
---->  10) 👀 Demo your appplication by taking screen shots or a recording using https://screencast-o-matic.com/  into your README page.
+--->  10) 👀 Demo your appplication by taking screen shots and a recording using https://screencast-o-matic.com/  into your README page.
 
 --->  11) Use git to commit your code into your github account with clear commits. 
 
